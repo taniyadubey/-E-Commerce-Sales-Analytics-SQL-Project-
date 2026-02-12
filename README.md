@@ -3,6 +3,7 @@
 This project analyzes customer purchase behavior, revenue performance, product trends, and fulfillment efficiency using SQL.
 
 link: https://www.programiz.com/sql/online-compiler
+
 The dataset includes:
 
 - Customers
